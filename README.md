@@ -11,3 +11,7 @@
 - 배경색, 로고 아이콘을 겹쳐서 item 추가
 
 ## 3. 스플래스 스크린 테마를 추가
+- res > values > themes 이동
+- 스플래시 테마 추가
+    - windowBackground : 보여줄 로고 이미지
+    - statusBarColor : 상태바 색상 변경
